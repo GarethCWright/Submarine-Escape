@@ -6,18 +6,18 @@ One girl - 20 years old - has never heard of the Titanic.
 
 'Is that like, a fish?'
 
-She's only here because she didn't want to do another yacht vacation with her fmaily.
+She's only here because she didn't want to take another yacht vacation with her fmaily.
 
 One guy starts talking to you about bitcoin. He hasn't actually made any money on it, but that doesn't matter because he was born rich.
 
-Another billionaire complains that no one's offered him a drink yet. Where's the scotch?
+Another billionaire complains that no one's offered him a drink yet. 'Where's the scotch?'
 
 You feel your brain melting the longer you interact with these people. You need to get away.
 """,
 
 
 "firstroom_shoot": """
-You draw your gun and aim for the most annoying billionaire. Just as you shoot he cranes his neck to ogle the 20-year-old. The bullet ricochets off the wall and kills you instantly.
+You draw your gun and aim for the most annoying billionaire. Just as you shoot, he cranes his neck to ogle the 20-year-old. The bullet ricochets off the wall and kills you instantly.
 """,
 
 
@@ -39,16 +39,16 @@ They pounce and tear you to shreds. You are dead.
 
 
 "firstroom_drinks": """
-You use your excellent people skills and agree with the billionaire that the service on this submarine is atrocious.
+You use your excellent people skills, agreeing with the billionaire that the service on this submarine is atrocious.
 
-'I'm gonna see about getting us some drinks."
+'I'm gonna see about getting us some drinks.'
 
 You say it indignantly and they love it. You step away and find yourself in the control room.
 """,
 
 
 "controlroom_enter": """
-In the control room you find the submarine specs and realize it was not built to descend such depths. It will probably implode soon. Do you tell the billionaires or try to escape on your own?
+In the control room, you find the submarine specs and realize it was not built to descend to such depths. It will probably implode soon. Do you tell the billionaires or do you try to escape on your own?
 """,
 
 
@@ -57,7 +57,7 @@ Because you're such a good person, you go back and tell the billionaires, but th
 
 'This submarine was built with state-of-the-art technology. One ticket cost a quarter million dollars. You expect me to believe some little pissant telling me it's no good?'
 
-You tell them about the specs. They start to worry but try to hide. You decide to capitalize on this.
+You tell them about the specs. They start to worry, but try to hide it. You decide to capitalize on this.
 
 'I can probably get us off this submarine... for the right price.'
 
@@ -89,7 +89,7 @@ Anyway. What are you going to do about this escape pod?
 
 
 "ask_billionaires": """
-You find the least annoying billionaire and ask for help. He is predictably unhelpful and you die.
+You find the least annoying billionaire and ask him for help. He is predictably unhelpful and ends up wasting all of the time you had left. You die.
 """,
 
 
@@ -99,7 +99,7 @@ You don't tell the billionaires. Fuck 'em. They can die for all you care.
 
 
 "engineroom_enter": """
-You look around and find the engine room where Paco the Mexican is doing the job of three people. He's sweaty and stressed.
+You look around and find the engine room where Paco (who's Mexican) is doing the job of three people. He's sweaty and stressed.
 
 You try explaining that the submarine is going to explode.
 
@@ -117,19 +117,19 @@ You point to Paco and back at yourself.
 
 'We go now. Or we die.'
 
-You make a dead face. His English is not so good and your Spanish is abysmal, but he gets it. He follows you out just as an emergency alert blares through the submarine.
+You make a dead face. His English is not so good and your Spanish is abysmal, but he gets it. He follows you out just as an emergency alert blares throughout the submarine.
 """,
 
 
 "escapepod_enter_paco": """
-You and Paco race to the escape pod and start to enter the controls. 
+You and Paco race to the escape pod and start to configure the controls. 
 
-Unfortunately the billionaires also heard the alert and have found the escape pod as well. It only holds two people.
+Unfortunately, the billionaires also heard the alert and have found the escape pod as well. It only holds two people.
 """,
 
 
 "escapepod_tripwire": """
-You activate a tripwire to stop the billionaires Unfortunately you're too close when they trigger it and you explode along with them.
+You activate a tripwire to stop the billionaires. Unfortunately, you're too close when they trigger it and you explode along with them.
 """,
 
 
